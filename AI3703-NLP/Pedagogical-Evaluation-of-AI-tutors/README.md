@@ -42,25 +42,6 @@ pedagogical-assessment/
 
 ---
 
-## ⚙️ Setup Instructions
-
-1️⃣ **Clone the repository**
-```bash
-git clone https://github.com/<your-username>/pedagogical-assessment.git
-cd pedagogical-assessment
-```
-
-2️⃣ **Install dependencies**
-```bash
-pip install -r requirements.txt
-```
-
-3️⃣ **Prepare the dataset**
-- Place the JSON file in the `data/` folder.
-- Use the preprocessing pipeline for cleaning and balancing.
-
----
-
 ## 🧭 Usage Guide
 
 ### Preprocess the Dataset
